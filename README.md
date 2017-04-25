@@ -7,7 +7,7 @@
 
 ## Contact
 
-Mail: ifuteng@qq.com
+Mail : ifuteng@qq.com
 
 ## License
 
