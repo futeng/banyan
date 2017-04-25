@@ -1,4 +1,4 @@
-# Linux Shell Command sort
+# Sort
 
 ## 你怎么来实现sort程序？
 
@@ -16,12 +16,8 @@
 7. 呵呵：`sort -t \| -k 5n -k8nr FILE`
 8. 组合：`ps aux | sort -k3nr | more`
 
-  
+## 参考
 
-
-\# 参考
-
-[http://roclinux.cn/?p=1350](http://roclinux.cn/?p=1350)
-
-[http://roclinux.cn/?p=1472](http://roclinux.cn/?p=1472)
+1. [http://roclinux.cn/?p=1350](http://roclinux.cn/?p=1350)
+2. [http://roclinux.cn/?p=1472](http://roclinux.cn/?p=1472)
 
