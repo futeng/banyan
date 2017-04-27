@@ -5,6 +5,7 @@
     * [list a menu](css/list-a-menu.md)
 * [Excel](excel.md)
     * [SUMPRODUCT](excel/sumproduct.md)
+    * [VLOOKUP](excel/vlookup.md)
 * [MySQL](mysql.md)
     * [Grant/Revoke](mysql/grant-revoke.md)
 * [Shell Command](shell-command.md)
