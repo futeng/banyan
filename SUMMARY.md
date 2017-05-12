@@ -11,5 +11,6 @@
 * [Shell Command](shell-command.md)
     * [Sort](shell-command/sort.md)
     * [iptables](shell-command/iptables.md)
+    * [重定向](shell-command/redirect.md)
 * [Political](political.md)
     * [政治学通史](political/political-science-history.md)
