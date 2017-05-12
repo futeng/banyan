@@ -34,7 +34,7 @@ cat: file_not_exists: 没有那个文件或目录
 对一些标准文件的引用，系统规定了默认值。
 
 文件描述符	| STDIO	| POSIX	| 用途	 | 默认
-----|----|----|----|----|----|
+----|----|----|----|----
 0	|stdin	|STDIN_FILENO	|标准输入	|键盘
 1	|stdout	|STDOUT_FILENO	|标准输出	|屏幕
 2	|stderr	|STDERR_FILENO	|标准错误	|屏幕
