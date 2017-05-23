@@ -9,6 +9,7 @@
 * [MySQL](mysql.md)
     * [Grant/Revoke](mysql/grant-revoke.md)
     * [MySQL Group Replication单机多实例安装](mysql/mysql-group-replication-install-multi-instance.md)
+    * [MySQL Group Replication实例安装](mysql/mysql-group-replication-install.md)
 * [Shell Command](shell-command.md)
     * [Sort](shell-command/sort.md)
     * [iptables](shell-command/iptables.md)
