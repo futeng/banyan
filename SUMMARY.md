@@ -15,5 +15,8 @@
     * [Sort](shell-command/sort.md)
     * [iptables](shell-command/iptables.md)
     * [重定向](shell-command/redirect.md)
+    * [Nginx负载](shell-command/nginx101.md)
+* [Linux](linux.md)
+    * [使用NAT转发实现内网机器访问外网](linux/nat-forward.md)
 * [Political](political.md)
     * [政治学通史](political/political-science-history.md)
