@@ -18,5 +18,6 @@
     * [Nginx负载](shell-command/nginx101.md)
 * [Linux](linux.md)
     * [使用NAT转发实现内网机器访问外网](linux/nat-forward.md)
+    * [遇见 xargs - 地下管道](linux/xargs.md)
 * [Political](political.md)
     * [政治学通史](political/political-science-history.md)
