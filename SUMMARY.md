@@ -16,6 +16,7 @@
     * [iptables](shell-command/iptables.md)
     * [重定向](shell-command/redirect.md)
     * [Nginx负载](shell-command/nginx101.md)
+    * [Shell 整数 字符串 判断 比较](shell-command/shell-compare.md)
 * [Linux](linux.md)
     * [使用NAT转发实现内网机器访问外网](linux/nat-forward.md)
     * [遇见 xargs - 地下管道](linux/xargs.md)
