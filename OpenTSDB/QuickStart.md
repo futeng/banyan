@@ -81,4 +81,4 @@ http://192.168.129.130:4242/api/query
 
 Grafana 中呈现
 
-![image-20180619225215597](/Users/futeng/workspace/futeng.me.tomcat/webapps/Tools/OpenTSDB/assets/image-20180619225215597.png)
+![image-20180619225215597](assets/image-20180619225215597.png)
